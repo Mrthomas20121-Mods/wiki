@@ -1,5 +1,5 @@
 ---
-redirect_from: "/"
+redirect_from: "/tfcflux"
 ---
 
 # Welcome to Mrthomas20121-Mods wiki.
