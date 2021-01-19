@@ -2,7 +2,7 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+# Welcome to Mrthomas20121-Mods wiki.
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+It Contain everything you need to know about my Mods.
 
